@@ -1,0 +1,73 @@
+subject:
+  name: Algoritmia y Complejidad
+  code: ac
+  credits: 6
+  course: 1
+  semester: 2
+
+schedule:
+  start_date: 2025-03-03
+  end_date: 2025-06-26
+
+topics:
+  - topic: Estrategias de diseño de algoritmos
+    code: gcs-ac-t01-estrategias-de-diseno-de-algoritmos
+  - topic: Eficacia de algoritmos
+    code: gcs-ac-t02-eficacia-de-algoritmos
+  - topic: Análisis de algoritmos
+    code: gcs-ac-t03-analisis-de-algoritmos
+  - topic: Algoritmos con árboles
+    code: gcs-ac-t05-algoritmos-con-arboles
+  - topic: Algoritmos con árboles ordenados y balanceados
+    code: gcs-ac-t06-algoritmos-con-arboles-ordenados-y-balanceados
+  - topic: Algoritmos con heaps y colas de prioridad
+    code: gcs-ac-t07-algoritmos-con-heaps-y-colas-de-prioridad
+  - topic: Algoritmos sobre grafos
+    code: gcs-ac-t08-algoritmos-sobre-grafos
+  - topic: Algoritmos greedy
+    code: gcs-ac-t09-algoritmos-greedy
+  - topic: Búsqueda de caminos mínimos
+    code: gcs-ac-t10-busqueda-de-caminos-minimos
+  - topic: Algoritmos greedy sobre grafos
+    code: gcs-ac-t11-algoritmos-greedy-sobre-grafos
+  - topic: Backtracking
+    code: gcs-ac-t12-backtracking
+
+slides:
+  - slide: Estrategias de diseño de algoritmos
+    code: gcs-ac-s01-estrategias-de-diseno-de-algoritmos
+  - slide: Eficacia de algoritmos
+    code: gcs-ac-s02-eficacia-de-algoritmos
+  - slide: Análisis de algoritmos
+    code: gcs-ac-s03-analisis-de-algoritmos
+  - slide: Algoritmos con árboles
+    code: gcs-ac-s05-algoritmos-con-arboles
+  - slide: Algoritmos con árboles ordenados y balanceados
+    code: gcs-ac-s06-algoritmos-con-arboles-ordenados-y-balanceados
+  - slide: Algoritmos con heaps y colas de prioridad
+    code: gcs-ac-s07-algoritmos-con-heaps-y-colas-de-prioridad
+  - slide: Algoritmos sobre grafos
+    code: gcs-ac-s08-algoritmos-sobre-grafos
+  - slide: Algoritmos greedy
+    code: gcs-ac-s09-algoritmos-greedy
+  - slide: Búsqueda de caminos mínimos
+    code: gcs-ac-s10-busqueda-de-caminos-minimos
+  - slide: Algoritmos greedy sobre grafos
+    code: gcs-ac-s11-algoritmos-greedy-sobre-grafos
+  - slide: Backtracking
+    code: gcs-ac-s12-backtracking
+
+assignments:
+  - assignment: Análisis de Complejidad
+    code: gcs-ac-a01-analisis-de-complejidad
+    due_date: 2025-03-31
+  - assignment: Algoritmos de ordenación
+    code: gcs-ac-a02-algoritmos-de-ordenacion
+    due_date: 2025-05-25
+
+lectures:
+  - lecture: Introducción a la asignatura
+    code: gcs-ac-l01-introduccion-a-la-asignatura
+    date: 2025-03-04
+
+resources:
